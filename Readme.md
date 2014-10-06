@@ -71,6 +71,16 @@
 ==========================
 ![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E6%A1%88%E4%BE%8B%E5%9C%96.PNG)
 
+使用案例描述:
+========================
+
+
+活動圖:
+=============================
+![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/0.0..PNG)
+
+
+
 統一程序與使用案例之階段
 ==========================
 >>第一階段:
@@ -106,12 +116,6 @@
 2.退貨與訂單分析
 
 3.價格比對查詢作業
-
-
-
-活動圖:
-=============================
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/0.0..PNG)
 
 
  
