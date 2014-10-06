@@ -74,7 +74,7 @@
 ========================
 會員基本資料
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E7%B6%B2%E7%AB%99%E6%9C%83%E5%93%A1%E8%B3%87%E6%96%99%E5%BB%BA%E7%AB%8B.PNG)
 
 預測訂單處理作業
 
