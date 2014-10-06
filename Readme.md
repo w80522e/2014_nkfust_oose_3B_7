@@ -72,23 +72,23 @@
 
 使用案例描述:
 ========================
-會員基本資料
+**會員基本資料**
 
 ![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E7%B6%B2%E7%AB%99%E6%9C%83%E5%93%A1%E8%B3%87%E6%96%99%E5%BB%BA%E7%AB%8B.PNG)
 
-預測訂單處理作業
+**預測訂單處理作業**
 
 ![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E9%A0%90%E6%B8%AC%E8%A8%82%E5%96%AE%E8%99%95%E7%90%86%E4%BD%9C%E6%A5%AD.PNG)
 
-廠商管理作業
+**廠商管理作業**
 
 ![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%BB%A0%E5%95%86%E7%AE%A1%E7%90%86%E4%BD%9C%E6%A5%AD.PNG)
 
-價格比對查詢作業
+**價格比對查詢作業**
 
 ![]()
 
-處理訂單紀錄
+**處理訂單紀錄**
 
 ![]()
 
