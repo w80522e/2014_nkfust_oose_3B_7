@@ -92,7 +92,7 @@
 
 活動圖:
 =============================
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/0.0..PNG)
+![](https://github.com/w80522e/2014_nkfust_oose_3B_7/blob/master/%E6%B4%BB%E5%8B%95.PNG)
 
 
 
