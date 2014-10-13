@@ -98,7 +98,7 @@
 
 >>**預測訂單處理作業活動圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E9%A0%90%E6%B8%AC%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
 
 >>**廠商管理作業活動圖**
 
@@ -106,7 +106,7 @@
 
 >>**價格比對查詢作業活動圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%83%B9%E6%A0%BC%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
 >>**處理訂單活動圖**
 
 ![](https://github.com/w80522e/2014_nkfust_oose_3B_7/blob/master/%E6%B4%BB%E5%8B%95.PNG)
