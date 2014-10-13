@@ -66,7 +66,7 @@
 
 使用案例圖:
 ==========================
-![]()
+![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/......PNG)
 
 使用案例描述:
 ========================
@@ -92,6 +92,21 @@
 
 活動圖:
 =============================
+>>**會員基本資料活動圖**
+
+![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%AE%A2%E6%88%B6%E8%B3%87%E8%A6%81%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
+
+>>**預測訂單處理作業活動圖**
+
+![]()
+
+>>**廠商管理作業活動圖**
+
+![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%BB%A0%E5%95%86%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
+
+>>**價格比對查詢作業活動圖**
+
+![]()
 >>**處理訂單活動圖**
 
 ![](https://github.com/w80522e/2014_nkfust_oose_3B_7/blob/master/%E6%B4%BB%E5%8B%95.PNG)
