@@ -66,7 +66,7 @@
 
 使用案例圖:
 ==========================
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/......PNG)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736212_795495063840376_114033316_n.jpg?oh=1498a37215c75888e914d5cf16c5860b&oe=5447C853&__gda__=1413980430_61096dec1a663076797af0416bd8a162)
 
 使用案例描述:
 ========================
