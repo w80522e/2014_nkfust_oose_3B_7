@@ -94,22 +94,22 @@
 =============================
 >>**會員基本資料活動圖**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%AE%A2%E6%88%B6%E8%B3%87%E8%A6%81%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
+![]()
 
 >>**預測訂單處理作業活動圖**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E9%A0%90%E6%B8%AC%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
+![]()
 
 >>**廠商管理作業活動圖**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%BB%A0%E5%95%86%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
+![]()
 
 >>**價格比對查詢作業活動圖**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%83%B9%E6%A0%BC%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
+![]()
 >>**處理訂單活動圖**
 
-![](https://github.com/w80522e/2014_nkfust_oose_3B_7/blob/master/%E6%B4%BB%E5%8B%95.PNG)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10728680_795479407175275_1748999586_n.jpg?oh=fb34d897977a31cd0a0c64aedb83455a&oe=5448BFC8&__gda__=1414054571_0dcd92822528c0fcbc37ee8f9639f65b)
 
 
 
