@@ -66,29 +66,29 @@
 
 使用案例圖:
 ==========================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736212_795495063840376_114033316_n.jpg?oh=1498a37215c75888e914d5cf16c5860b&oe=5447C853&__gda__=1413980430_61096dec1a663076797af0416bd8a162)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.jpg)
 
 使用案例描述:
 ========================
 >>**會員基本資料**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99.PNG)
+![]()
 
 >>**預測訂單處理作業**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E9%A0%90%E6%B8%AC%E8%A8%82%E5%96%AE.PNG)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E6%A1%88%E4%BE%8B%E8%A1%A8.PNG)
 
 >>**廠商管理作業**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%BB%A0%E5%95%86%E7%AE%A1%E7%90%86.PNG)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E6%A1%88%E4%BE%8B%E8%A1%A8.PNG)
 
 >>**價格比對查詢作業**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E5%83%B9%E6%A0%BC%E6%AF%94%E5%B0%8D.PNG)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%83%B9%E6%A0%BC%E6%A1%88%E4%BE%8B%E8%A1%A8.PNG)
 
 >>**處理訂單紀錄**
 
-![](https://raw.githubusercontent.com/w80522e/2014_nkfust_oose_3B_7/master/%E8%99%95%E7%90%86%E8%A8%82%E5%96%AE.PNG)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E6%A1%88%E4%BE%8B%E8%A1%A8.PNG)
 
 活動圖:
 =============================
