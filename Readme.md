@@ -271,6 +271,7 @@
     <td>搜尋頁面的屬性</td>
     <td>否</td>
   </tr>
+  
  <table>
  <tr>
     <td>**處理訂單紀錄類別列舉表**</td>
@@ -340,9 +341,9 @@
     <td>為交易屬性</td>
     <td>否</td>
     </tr>
+    </table>
     
-    
->>類別圖 
+類別圖:
 =============================
 >>**會員基本資料類別圖**
 
@@ -359,60 +360,60 @@
 >>**價格比對查詢作業類別圖**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733610_815436361812645_2056373588_n.jpg?oh=d9f76c7b819bd4f6ae61c63efeeaaf8b&oe=5448BC9F&__gda__=1414050255_51c42a6eea87eaa1f1d80d1a45401ab8)
+
 >>**處理訂單類別圖**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743634_795487430507806_540860505_n.jpg?oh=75b2f4bb291fb19c482b62af3d7a657d&oe=54489EF4&__gda__=1414042537_29d81e89ba33bd43f18435709b70fb84)
 
->>第一階段之初步類別圖
+>>**第一階段之初步類別圖**
 
 ![]()
 
-系統事件之合約
+系統事件之合約:
 ===================================
->>**會員資本資料**
+>>**會員資本資料之合約**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10728922_569003159911977_999195882_n.jpg?oh=007a64ee2aaf610525c119b5d67c18ff&oe=5448B305&__gda__=1413990298_e4cc83e6181ac5173346e123a9c8c439)
 
->>**預測訂單處理作業**
+>>**預測訂單處理作業之合約**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10726397_932812523401186_1393784532_n.jpg?oh=1cfb3a17ea2c506932d1ddac900c673c&oe=5447D94C&__gda__=1414065564_4dbabb3bfbb1c6dea6967ba42a4a0abc)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10721119_932812533401185_1706335513_n.jpg?oh=02de78bde7ebf9773b6aa84139a56e74&oe=5447A768&__gda__=1413989771_f86cb9d66c41a8f508cd84c65d187acc)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10726838_932812576734514_1168061507_n.jpg?oh=ec89fb70a02af7449b0bb20798046cbd&oe=5447E064&__gda__=1413988295_bd60f1fdf8ce7d3ed455465ecbc0084e)
 
->>**廠商管理作業**
+>>**廠商管理作業之合約**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10726206_886379771387256_1122926808_n.jpg?oh=fbe7f4234b8129fc01ed2ea347dec6e0&oe=5447CC76&__gda__=1414042022_dd190634758be2e16bb61ad70cfbcbe3)
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10728572_886379824720584_188342002_n.jpg?oh=157178
 70a015be8212797b6da2cc004a&oe=54489C34&__gda__=1414059753_75c5305509567b739bdcc57c7b37c391)
 
->>**價格比對**
+>>**價格比對之合約**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726293_815433268479621_277118126_n.jpg?oh=c58c736b0dcc504b2a4cc5a817e600f3&oe=54489B73&__gda__=1414059564_a328f074e4963dac0730e410edb3ada8)
 
->>**處理訂單**
+>>**處理訂單之合約**
  
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743413_795484280508121_604342616_n.jpg?oh=d2e264bd786a2bb9984eeb9cdb9eb84c&oe=5447C16C&__gda__=1413983409_10d231a1c370682218d70522a1918dd2)
-
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733645_795484277174788_1384506405_n.jpg?oh=bc05a6fdcc62413ce98038129579c4ea&oe=5448B4E2&__gda__=1413989234_1e9e7e73099c6e8d307b4d0f2bbc030f)
 
 循序圖:
 ==================================
- >>**會員基本資料**
+ >>**會員基本資料循序圖**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745081_569003163245310_1962843954_n.jpg?oh=6b77400b0c00d7dc51b059dc703944c4&oe=5447DA1F&__gda__=1413984079_ca2cae169987fed47f9492f7f8fab138)
 
->>**預測訂單處理作業**
+>>**預測訂單處理作業循序圖**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743311_932813333401105_1701925309_n.jpg?oh=7270a1d5c4d6df3e8fb33efd8f6c6d36&oe=54488E95&__gda__=1413980485_6433727358632b71502a3e98e94532cb)
 
->>**廠商管理作業**
+>>**廠商管理作業循序圖**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743402_886379834720583_250394669_n.jpg?oh=23ecb9cd9b24975d35ea825952c09199&oe=5448ABBA&__gda__=1413994151_f354d44390edd0cc9e15bd3bf8e68ecc)
 
->>**價格比對查詢作業**
+>>**價格比對查詢作業循序圖**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733468_815433605146254_407770587_n.jpg?oh=0e12d88cb748ecd3e311453b80460831&oe=5447E235&__gda__=1414056296_b4baeeddfbca8487806466df45a6670f)
 
->>**處理訂單**
+>>**處理訂單循序圖**
 
 ![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744589_795484283841454_678203851_n.jpg?oh=6b77f565ebdf0dcd2491fff7e074602e&oe=5448AD5B&__gda__=1413994118_ce9e1ed2b87dcd5d0359b7ee6b845eba)
