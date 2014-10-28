@@ -373,28 +373,27 @@
 ===================================
 >>**會員資本資料之合約**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10728922_569003159911977_999195882_n.jpg?oh=007a64ee2aaf610525c119b5d67c18ff&oe=5448B305&__gda__=1413990298_e4cc83e6181ac5173346e123a9c8c439)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%9C%83%E5%8E%9F%E5%90%88%E7%B4%84.jpg)
 
 >>**預測訂單處理作業之合約**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10726397_932812523401186_1393784532_n.jpg?oh=1cfb3a17ea2c506932d1ddac900c673c&oe=5447D94C&__gda__=1414065564_4dbabb3bfbb1c6dea6967ba42a4a0abc)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10721119_932812533401185_1706335513_n.jpg?oh=02de78bde7ebf9773b6aa84139a56e74&oe=5447A768&__gda__=1413989771_f86cb9d66c41a8f508cd84c65d187acc)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10726838_932812576734514_1168061507_n.jpg?oh=ec89fb70a02af7449b0bb20798046cbd&oe=5447E064&__gda__=1413988295_bd60f1fdf8ce7d3ed455465ecbc0084e)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%90%88%E7%B4%84-1.jpg)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%90%88%E7%B4%84-2.jpg)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%90%88%E7%B4%843.jpg)
 
 >>**廠商管理作業之合約**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10726206_886379771387256_1122926808_n.jpg?oh=fbe7f4234b8129fc01ed2ea347dec6e0&oe=5447CC76&__gda__=1414042022_dd190634758be2e16bb61ad70cfbcbe3)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10728572_886379824720584_188342002_n.jpg?oh=157178
-70a015be8212797b6da2cc004a&oe=54489C34&__gda__=1414059753_75c5305509567b739bdcc57c7b37c391)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E5%90%88%E7%B4%84-1.jpg)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E5%90%88%E7%B4%84-2.jpg)
 
 >>**價格比對之合約**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726293_815433268479621_277118126_n.jpg?oh=c58c736b0dcc504b2a4cc5a817e600f3&oe=54489B73&__gda__=1414059564_a328f074e4963dac0730e410edb3ada8)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%83%B9%E6%A0%BC%E5%90%88%E7%B4%84.jpg)
 
 >>**處理訂單之合約**
  
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743413_795484280508121_604342616_n.jpg?oh=d2e264bd786a2bb9984eeb9cdb9eb84c&oe=5447C16C&__gda__=1413983409_10d231a1c370682218d70522a1918dd2)
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733645_795484277174788_1384506405_n.jpg?oh=bc05a6fdcc62413ce98038129579c4ea&oe=5448B4E2&__gda__=1413989234_1e9e7e73099c6e8d307b4d0f2bbc030f)
+ ![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E5%90%88%E7%B4%84-1.jpg)
+ ![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E5%90%88%E7%B4%84-2.jpg)
 
 循序圖:
 ==================================
