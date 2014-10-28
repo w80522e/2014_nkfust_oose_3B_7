@@ -399,20 +399,20 @@
 ==================================
  >>**會員基本資料循序圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10745081_569003163245310_1962843954_n.jpg?oh=6b77400b0c00d7dc51b059dc703944c4&oe=5447DA1F&__gda__=1413984079_ca2cae169987fed47f9492f7f8fab138)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%9C%83%E5%93%A1%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
 
 >>**預測訂單處理作業循序圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743311_932813333401105_1701925309_n.jpg?oh=7270a1d5c4d6df3e8fb33efd8f6c6d36&oe=54488E95&__gda__=1413980485_6433727358632b71502a3e98e94532cb)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
 
 >>**廠商管理作業循序圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743402_886379834720583_250394669_n.jpg?oh=23ecb9cd9b24975d35ea825952c09199&oe=5448ABBA&__gda__=1413994151_f354d44390edd0cc9e15bd3bf8e68ecc)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
 
 >>**價格比對查詢作業循序圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10733468_815433605146254_407770587_n.jpg?oh=0e12d88cb748ecd3e311453b80460831&oe=5447E235&__gda__=1414056296_b4baeeddfbca8487806466df45a6670f)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%83%B9%E6%A0%BC%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
 
 >>**處理訂單循序圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744589_795484283841454_678203851_n.jpg?oh=6b77f565ebdf0dcd2491fff7e074602e&oe=5448AD5B&__gda__=1413994118_ce9e1ed2b87dcd5d0359b7ee6b845eba)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
