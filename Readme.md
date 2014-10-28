@@ -94,24 +94,23 @@
 =============================
 >>**會員基本資料活動圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726829_568998689912424_2113084745_n.jpg?oh=ba61aa550e389fe53f7e7de26c7d6095&oe=5448BD79&__gda__=1413990425_4ddb4404eb95ad343bc23708ae6a81d0)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%9C%83%E5%93%A1%E5%BB%BA%E7%AB%8B%E6%B4%BB%E5%8B%95%E5%9C%96.jpg)
 
 >>**預測訂單處理作業活動圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10728558_568999929912300_1158907522_n.jpg?oh=0cfed4a74fc9a334bacfe7b0f6baf7a7&oe=5447ABE1&__gda__=1413986225_f46f19b9eb384b9becf9d4fcdee4aaa6)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10665346_573603596118600_592508759540905421_n.jpg?oh=b97e4aa42cb52fdcc29927386f0bc505&oe=5451FB6A&__gda__=1414648000_6370e4c590e21771a55d5945044394d0)
 
 >>**廠商管理作業活動圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10726746_569001109912182_626773316_n.jpg?oh=ece023763bbf92f69f124bde7a587289&oe=5447D3E4&__gda__=1414051003_925db8f249098beb5317a15a1b476c9c)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E6%B4%BB%E5%8B%95%E5%9C%96.jpg)
 
 >>**價格比對查詢作業活動圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10728901_815432771813004_281308474_n.jpg?oh=df20d55c102ebd89ba8fc4b30efb7502&oe=5447C8B9&__gda__=1413995878_93c93f7d223ee4577b419e67a77a24bd)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%83%B9%E6%A0%BC%20%E6%B4%BB%E5%8B%95%E5%9C%96.jpg)
+
 >>**處理訂單活動圖**
 
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t34.0-12/10728680_795479407175275_1748999586_n.jpg?oh=fb34d897977a31cd0a0c64aedb83455a&oe=5448BFC8&__gda__=1414054571_0dcd92822528c0fcbc37ee8f9639f65b)
-
-
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E8%A8%82%E5%96%AE%E6%B4%BB%E5%8B%95%E5%9C%96.PNG)
 
 統一程序與使用案例之階段:
 ==========================
@@ -399,19 +398,19 @@
 ==================================
  >>**會員基本資料循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%9C%83%E5%93%A1%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10521936_573612892784337_4411913942908880861_n.jpg?oh=4e8129bc939dacdd8d0bab896b22073c&oe=54521C74&__gda__=1414667979_cbf6807c7a4039a88ec0d9c65867044c)
 
 >>**預測訂單處理作業循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10734120_573612872784339_7212495682097150000_n.jpg?oh=2f07129fa5e4a3b13dcc75bdd4e03785&oe=5452070E&__gda__=1414587224_f42e05503d1d8e8c5152d35617ceaaa3)
 
 >>**廠商管理作業循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/1380196_573612876117672_8359706105155847205_n.jpg?oh=92b618e3f81b6a62624513fde47a1ff7&oe=5450EF5D&__gda__=1414584674_4f72662aba7340b419398dd21250541a)
 
 >>**價格比對查詢作業循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%83%B9%E6%A0%BC%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10711112_573612886117671_6509731638839189463_n.jpg?oh=abc87807abd93508308cfe34b4d04a88&oe=545221D3&__gda__=1414663084_ce618bb682c8c43cf469221030b7cd7a)
 
 >>**處理訂單循序圖**
 
