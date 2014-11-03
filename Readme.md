@@ -346,27 +346,27 @@
 =============================
 >>**會員基本資料類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%93%B7%E5%8F%962.JPG)
 
 >>**預測訂單處理作業類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%93%B7%E5%8F%964.JPG)
 
 >>**廠商管理作業類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%93%B7%E5%8F%963.JPG)
 
 >>**價格比對查詢作業類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%93%B7%E5%8F%961.JPG)
 
 >>**處理訂單類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%93%B7%E5%8F%96.JPG)
 
 >>**第一階段之初步類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%93%B7%E5%8F%965.JPG)
 
 系統事件之合約:
 ===================================
