@@ -1,4 +1,7 @@
-##資管3B 小組名稱: 房祖名
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%93%B7%E5%8F%966.JPG)
+
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%93%B7%E5%8F%967.JPG)
+##小組名稱:房祖名
 小組工作分配:
 =====================
 |學號|姓名|分配工作|
