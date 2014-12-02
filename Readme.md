@@ -433,4 +433,8 @@
 
 >>**處理訂單循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg
+
+強韌圖:
+====================
+![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/974462_956450594370712_1865786925_n.jpg?oh=2c5c7ff723401d2d8ff452e51e1dbbb4&oe=547F0EE9&__gda__=1417624052_0ae40eb3aca6ad04798063951a819a53)
