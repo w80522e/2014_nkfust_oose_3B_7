@@ -51,7 +51,7 @@
 
 使用案例圖:
 ==========================
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E4%BD%BF%E7%94%A8%E5%9C%96.JPG)
 
 使用案例描述:
 ========================
@@ -79,23 +79,23 @@
 =============================
 >>**會員基本資料作業活動圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9C%83%E5%93%A1%E5%BB%BA%E7%AB%8B%E6%B4%BB%E5%8B%95%E5%9C%96.JPG)
 
 >>**產品資料建立作業活動圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E7%94%A2%E5%93%81%E6%B4%BB%E5%8B%95%E5%9C%96.JPG)
 
 >>**產品資料查詢作業活動圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9F%A5%E8%A9%A2%E8%B3%87%E6%96%99%E6%B4%BB%E5%8B%95%E5%9C%96.JPG)
 
 >>**產品製作分享作業活動圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E7%94%A2%E5%93%81%E8%A3%BD%E4%BD%9C%E6%B4%BB%E5%8B%95%E5%9C%96.JPG)
 
 >>**意見回覆作業活動圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%84%8F%E8%A6%8B%E6%B4%BB%E5%8B%95%E5%9C%96.JPG)
 
 使用案例的名詞與概念類別列舉表:
 ================================
@@ -275,27 +275,27 @@
 =============================
 >>**會員基本資料類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9C%83%E5%93%A1%E5%BB%BA%E7%AB%8B%E9%A1%9E%E5%88%A5%E5%9C%96.JPG)
 
 >>**產品資料建立作業類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E7%94%A2%E5%93%81%E5%BB%BA%E7%AB%8B%E9%A1%9E%E5%88%A5%E5%9C%96.JPG)
 
 >>**產品資料查詢作業類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%94%B6%E5%B0%8B%E9%A1%9E%E5%88%A5%E5%9C%96.JPG)
 
 >>**產品製作分享作業類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E5%88%86%E4%BA%AB%E9%A1%9E%E5%88%A5%E8%A1%A8.JPG)
 
 >>**意見回覆作業類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%84%8F%E8%A6%8B%E9%A1%9E%E5%88%A5%E8%A1%A8.JPG)
 
 >>**第一階段之初步類別圖**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E5%88%9D%E6%AD%A5%E9%A1%9E%E5%88%A5.JPG)
 
 系統事件之合約:
 ===================================
