@@ -327,23 +327,23 @@
 ==================================
  >>**會員基本資料循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%9C%83%E5%93%A1%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9C%83%E5%93%A1%E5%BB%BA%E7%AB%8B%E5%BE%AA%E5%BA%8F%E5%9C%96.JPG)
 
->>**預測訂單處理作業循序圖**
+>>**產品資料建立作業循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E7%94%A2%E5%93%81%E5%BE%AA%E5%BA%8F%E5%9C%96.JPG)
 
->>**廠商管理作業循序圖**
+>>**產品資料查詢作業循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9F%A5%E8%A9%A2%E5%BE%AA%E5%BA%8F%E5%9C%96.JPG)
 
->>**價格比對查詢作業循序圖**
+>>**產品製作分享作業循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%83%B9%E6%A0%BC%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E5%88%86%E4%BA%AB%E5%BE%AA%E5%BA%8F%E5%9C%96.JPG)
 
->>**處理訂單循序圖**
+>>**意見回覆作業循序圖**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%84%8F%E8%A6%8B%E5%BE%AA%E5%BA%8F%E5%96%AE.JPG)
 
 強韌圖:
 ====================
