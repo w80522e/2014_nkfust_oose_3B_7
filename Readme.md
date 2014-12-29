@@ -299,29 +299,26 @@
 
 系統事件之合約:
 ===================================
->>**會員資本資料之合約**
+>>**會員基本資料事件合約**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E6%9C%83%E5%8E%9F%E5%90%88%E7%B4%84.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9C%83%E5%93%A1%E5%90%88%E7%B4%84.JPG)
 
->>**預測訂單處理作業之合約**
+>>**產品資料建立作業事件合約**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%90%88%E7%B4%84-1.jpg)
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%90%88%E7%B4%84-2.jpg)
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E9%A0%90%E6%B8%AC%E5%90%88%E7%B4%843.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E7%94%A2%E5%93%81%E5%90%88%E7%B4%84.JPG)
 
->>**廠商管理作業之合約**
+>>**產品資料查詢作業事件合約*
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E5%90%88%E7%B4%84-1.jpg)
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%BB%A0%E5%95%86%E5%90%88%E7%B4%84-2.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9F%A5%E8%A9%A2%E5%90%88%E7%B4%84.JPG)
 
->>**價格比對之合約**
+>>**產品製作分享作業事件合約**
 
-![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E5%83%B9%E6%A0%BC%E5%90%88%E7%B4%84.jpg)
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E5%88%86%E4%BA%AB%E5%92%8C%E7%B4%84.JPG)
 
->>**處理訂單之合約**
- 
- ![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E5%90%88%E7%B4%84-1.jpg)
- ![](https://raw.githubusercontent.com/w80522e/github_photo/master/%E8%99%95%E7%90%86%E5%90%88%E7%B4%84-2.jpg)
+>>**意見回覆作業事件合約**
+
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%84%8F%E8%A6%8B%E5%90%88%E7%B4%84.JPG)
+
 
 循序圖:
 ==================================
@@ -366,3 +363,7 @@
 >>**意見回覆作業強韌圖**
 
 ![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%84%8F%E8%A6%8B%E5%BC%B7%E9%9F%8C.JPG)
+
+ER-Model:
+======================
+![](https://raw.githubusercontent.com/w80522e/newgit/master/ER.jpg)
