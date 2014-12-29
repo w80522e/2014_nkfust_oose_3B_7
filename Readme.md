@@ -57,23 +57,23 @@
 ========================
 >>**會員基本資料作業**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9C%83%E5%93%A1%E6%8F%8F%E8%BF%B0.JPG)
 
 >>**產品資料建立作業**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E7%94%A2%E5%93%81%E6%8F%8F%E8%BF%B0.JPG)
 
 >>**產品資料查詢作業**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9F%A5%E8%A9%A2%E6%8F%8F%E8%BF%B0.JPG)
 
 >>**產品製作分享作業**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E5%88%86%E4%BA%AB%E6%8F%8F%E8%BF%B0.JPG)
 
 >>**意見回覆作業**
 
-![]()
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%84%8F%E8%A6%8B%E6%8F%8F%E8%BF%B0.JPG)
 
 使用案例活動圖:
 =============================
@@ -347,4 +347,22 @@
 
 強韌圖:
 ====================
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/974462_956450594370712_1865786925_n.jpg?oh=2c5c7ff723401d2d8ff452e51e1dbbb4&oe=547F0EE9&__gda__=1417624052_0ae40eb3aca6ad04798063951a819a53)
+>>**會員基本資料強韌圖**
+
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9C%83%E5%93%A1%E5%BC%B7%E9%9F%8C.JPG)
+
+>>**產品資料建立作業強韌圖**
+
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E7%94%A2%E5%93%81%E5%BB%BA%E7%AB%8B%E5%BC%B7%E9%9F%8C.JPG)
+
+>>**產品資料查詢作業強韌圖**
+
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%9F%A5%E8%A9%A2%E5%BC%B7%E9%9F%8C.JPG)
+
+>>**產品製作分享作業強韌圖**
+
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E8%A3%BD%E4%BD%9C%E5%BC%B7%E9%9F%8C.JPG)
+
+>>**意見回覆作業強韌圖**
+
+![](https://raw.githubusercontent.com/w80522e/newgit/master/%E6%84%8F%E8%A6%8B%E5%BC%B7%E9%9F%8C.JPG)
