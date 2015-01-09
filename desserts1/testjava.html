@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>無標題文件</title>
+</head>
+<!--字跟游標_開始-->
+<style>
+<!--
+.spanstyle{position:absolute;visibility:visible;top:-50px;font-size:10pt;
+font-weight:bold;color:#734d2b}
+-->
+</style> 
+<script language="JavaScript">
+<!--
+var x,y 
+<!--在此修改字距，數值越大就越遠-->
+var step=15
+var flag=0 
+<!--在此修改出現的文字-->
+var message="歡 迎 光 臨 AnMei點心坊  ~" 
+message=message.split("") 
+var xpos=new Array() 
+for (i=0;i<=message.length;i++) { 
+xpos[i]=-50 
+} 
+var ypos=new Array() 
+for (i=0;i<=message.length;i++) { 
+ypos[i]=-50 
+} 
+function handlerMM(e){ 
+x = (document.layers) ? e.pageX : document.body.scrollLeft+event.clientX 
+y = (document.layers) ? e.pageY : document.body.scrollTop+event.clientY 
+flag=1 
+} 
+function makesnake() { 
+if (flag==1 && document.all) { 
+for (i=message.length; i>=1; i--) { 
+xpos[i]=xpos[i-1]+step 
+ypos[i]=ypos[i-1] 
+} 
+xpos[0]=x+step 
+ypos[0]=y 
+for (i=0; i<message.length; i++) { 
+var thisspan = eval("span"+(i)+".style") 
+thisspan.posLeft=xpos[i] 
+thisspan.posTop=ypos[i] 
+} 
+} 
+else if (flag==1 && document.layers) { 
+for (i=message.length; i>=1; i--) { 
+xpos[i]=xpos[i-1]+step 
+ypos[i]=ypos[i-1] 
+} 
+xpos[0]=x+step 
+ypos[0]=y 
+
+for (i=0; i<message.length; i++) { 
+var thisspan = eval("document.span"+i) 
+thisspan.left=xpos[i] 
+thisspan.top=ypos[i] 
+} 
+} 
+var timer=setTimeout("makesnake()",30) 
+}
+-->
+</script>
+<body onLoad="makesnake()">
+<script language="JavaScript"> 
+<!-- 
+for (i=0;i<=message.length;i++) { 
+document.write("<span id='span"+i+"' class='spanstyle'>") 
+document.write(message[i]) 
+document.write("</span>") 
+} 
+if (document.layers){ 
+document.captureEvents(Event.MOUSEMOVE); 
+} 
+document.onmousemove = handlerMM; 
+--> 
+</script>
+<!--字跟游標_結束-->
+<body>
+</body>
+</html>

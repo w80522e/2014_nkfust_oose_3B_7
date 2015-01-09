@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/test.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>無標題文件</title>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+#Image6{
+	border-style:none;
+	border-width: 0px;
+	}
+#Image7{
+	border-style:none;
+	border-width: 0px;
+	}
+#Image8{
+	border-style:none;
+	border-width: 0px;
+	}
+#Image9{
+	border-style:none;
+	border-width: 0px;
+	}
+#Image3{
+	border-style:none;
+	border-width: 0px;
+	}
+#Image4{
+	border-style:none;
+	border-width: 0px;
+	}
+#Image5{
+	border-style:none;
+	border-width: 0px;
+	}
+
+#apDiv2 {
+	position: absolute;
+	left: 0px;
+	top: 526px;
+	width: 800px;
+	height: 46px;
+	z-index: 1;
+	background-image: url(../img/but/bag.png);
+}
+#apDiv1 {
+	position: absolute;
+	left: 63px;
+	top: 91px;
+	width: 186px;
+	height: 176px;
+	z-index: 2;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+</style>
+<script src="../Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<!-- InstanceBeginEditable name="head" -->
+
+
+<style type="text/css">
+body {
+	background-image: url(../img/b.jpg);
+	background-repeat: repeat;
+	background-attachment:fixed;
+}
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('../img/but/home2.png','../img/but/prepare2.png','../img/but/cookie2.png','../img/but/cake2.png','../img/but/bread2.png','../img/but/about2.png','../img/but/device2.png')">
+
+<div id="apDiv2">
+  <table width="770" align="center" cellspacing="0">
+    <tr>
+      <th height="38" scope="col"><a href="../home.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','../img/but/home2.png',1)"><img src="../img/but/home.png" alt="" width="110" height="34" id="Image3" /></a></th>
+      <th scope="col"><a href="../prepare.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','../img/but/prepare2.png',1)"><img src="../img/but/prepare.png" alt="" width="110" height="34" id="Image4" /></a></th>
+      <th scope="col"><a href="../cookie.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','../img/but/cookie2.png',1)"><img src="../img/but/cookie.png" alt="" width="110" height="34" id="Image5" /></a></th>
+      <th scope="col"><a href="../cake.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','../img/but/cake2.png',1)"><img src="../img/but/cake.png" alt="" width="110" height="34" id="Image6" /></a></th>
+      <th scope="col"><a href="../Bread.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','../img/but/bread2.png',1)"><img src="../img/but/bread.png" alt="" width="110" height="34" id="Image7" /></a></th>
+      <th scope="col"><a href="../about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','../img/but/about2.png',1)"><img src="../img/but/about.png" alt="" width="110" height="34" id="Image8" /></a></th>
+      <th scope="col"><a href="../device.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','../img/but/device2.png',1)"><img src="../img/but/device.png" alt="" width="110" height="34" id="Image9" /></a></th>
+    </tr>
+  </table>
+</div>
+  <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="800" height="527">
+    <param name="movie" value="../img/star.swf" />
+    <param name="quality" value="high" />
+    <param name="wmode" value="opaque" />
+    <param name="swfversion" value="7.0.70.0" />
+    <!-- 此 param 标签提示使用 Flash Player 6.0 r65 和更高版本的用户下载最新版本的 Flash Player。如果您不想让用户看到该提示，请将其删除。 -->
+    <param name="expressinstall" value="../Scripts/expressInstall.swf" />
+    <!-- 下一个对象标签用于非 IE 浏览器。所以使用 IECC 将其从 IE 隐藏。 -->
+    <!--[if !IE]>-->
+    <object type="application/x-shockwave-flash" data="../img/star.swf" width="800" height="527">
+      <!--<![endif]-->
+      <param name="quality" value="high" />
+      <param name="wmode" value="opaque" />
+      <param name="swfversion" value="7.0.70.0" />
+      <param name="expressinstall" value="../Scripts/expressInstall.swf" />
+      <!-- 浏览器将以下替代内容显示给使用 Flash Player 6.0 和更低版本的用户。 -->
+      <div>
+        <h4>此页面上的内容需要较新版本的 Adobe Flash Player。</h4>
+        <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="获取 Adobe Flash Player" width="112" height="33" /></a></p>
+      </div>
+      <!--[if !IE]>-->
+    </object>
+    <!--<![endif]-->
+</object>
+</p>
+<p>&nbsp;</p>
+<!-- InstanceBeginEditable name="EditRegion1" -->
+<form id="form1" name="form1" method="post" action="">
+  <div align="center">
+    <p>&nbsp;</p>
+    <p>
+    
+
+
+ <td><p>點心名稱：
+     <select name="searchsweetname">
+     <option value="all">全部</option>
+     <?php
+			$searchname = mysql_query("SELECT `sweetname`FROM sweetlist");
+			while ($check2 = mysql_fetch_array($searchname)){
+				echo "<option  value=".$check2[sweetname].">".$check2[sweetname]."</option>";
+			}
+				
+		?>
+        
+ <?php
+
+$result=mysql_query("SELECT `name`,`sweetname`, `material,`make `From `sweetlist` WHERE `sweetname`='".$_POST[searchsweetname]."' 
+");
+
+$searchsweetname=$_POST['searchsweetname'];
+
+if($_POST['searchsweetname']==all){
+	
+$result=mysql_query("SELECT `sweetlist`.`name`, `sweetlist`.`sweetname`, `sweetlist`.`material`, `sweetlist`.`make`
+FROM `sweetlist` 
+");
+
+	}
+else{
+$result=mysql_query("SELECT `sweetlist`.`name`, `sweetlist`.`sweetname`, `sweetlist`.`material`, `sweetlist`.`make`
+FROM `sweetlist` WHERE `sweetlist`.`sweetname`='".$_POST[searchsweetname]."' 
+");
+}
+?>
+   </select>
+    <input  type="submit"  name="btnsubmit"  value="送出" />
+      </p>
+        <p>
+          <input  type="hidden"  name="action"  value="insert" />
+ </p>
+   <p>點心做法 </p></td>
+     <table width="542" height="53" border="1">
+      <tr>
+        <td width="117"><div align="center">提供者名稱</div></td>
+        <td width="107"><div align="center">點心名稱</div></td>
+        <td width="46"><div align="center">材料</div></td>
+        <td width="77"><div align="center">做法</div></td>
+      </tr>
+
+
+  <?PHP
+while($SQL=mysql_fetch_array ($result)){
+	echo "<tr>";
+	echo "<td>".$SQL['name']."</td>"."<td>".$SQL['sweetname']."</td>	"."<td>".$SQL['material']."</td>"."<td>".$SQL['make']."</td>";
+	echo "</tr>";
+}
+?>
+     
+
+    </table>
+  </div>
+</form>
+<!-- InstanceEndEditable -->
+<img src="../img/under.png" width="805" height="153" />
+<style type="text/css">
+HTML {
+SCROLLBAR-FACE-COLOR:#fcfcfc;SCROLLBAR-HIGHLIGHT-COLOR:#cf8c51;SCROLLBAR-SHADOW-COLOR:#cf8c51;SCROLLBAR-3DLIGHT-COLOR:#cf8c51;SCROLLBAR-ARROW-COLOR:#cf8c51;SCROLLBAR-TRACK-COLOR:#fcfcfc;SCROLLBAR-DARKSHADOW-COLOR:#cf8c51;}
+</style>
+ <style>
+body{cursor:url(img/001.ani);}a{cursor:url(img/001.ani);}
+</style> 
+<style type="text/css">
+HTML {
+SCROLLBAR-FACE-COLOR:#fcfcfc;SCROLLBAR-HIGHLIGHT-COLOR:#cf8c51;SCROLLBAR-SHADOW-COLOR:#cf8c51;SCROLLBAR-3DLIGHT-COLOR:#cf8c51;SCROLLBAR-ARROW-COLOR:#cf8c51;SCROLLBAR-TRACK-COLOR:#fcfcfc;SCROLLBAR-DARKSHADOW-COLOR:#cf8c51;}
+</style>
+<style>
+body{cursor:url(img/001.ani);}a{cursor:url(img/001.ani);}
+</style>
+<script type="text/javascript">
+swfobject.registerObject("FlashID");
+</script>
+</body>
+<!-- InstanceEnd --></html>
